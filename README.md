@@ -1,4 +1,4 @@
-#Liberty Commons High School HP Repo
+#Liberty Commons High School HP Club
 
 ## Background
 The followign repo was produced to help partner between Liberty Commons High School's HP Club and Hewlett-Packard Enterprise employees who wish to help train and setup students for sucess in possible internships as well as learn more about computing.
