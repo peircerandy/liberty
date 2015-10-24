@@ -20,6 +20,7 @@ A high-level outline of the areas of focus for this project is below. This is no
 
 ## Contributors
 * [Joshua Powers](http://powersj.github.io/)
+* [Nicholas Luedtke](https://github.com/nluedtke)
 
 # License
 Apache 2.0 &copy; Joshua Powers
