@@ -20,8 +20,9 @@ A high-level outline of the areas of focus for this project is below. This is no
 * git
 
 ## Contributors
-* [Joshua Powers](http://powersj.github.io/)
+* [Joshua Powers](https://github.com/powersj/)
 * [Nicholas Luedtke](https://github.com/nluedtke)
+* [Josh Gadeken](https://github.com/process1183)
 * [Justin Vreeland](https://github.com/justinvreeland)
 
 # License
