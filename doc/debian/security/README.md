@@ -8,4 +8,4 @@ Computer Security is a huge field/topic within the industry today. Debian tackle
  - [Debian Security](https://www.debian.org/security/) - general information regarding Debian Security and the team.
   - [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html) - Debian's own hardening guide.
   - [Debian Security Tracker](https://security-tracker.debian.org/tracker/) - a tracker of vulnerable packages within Debian.
- - [How PGP works](http://www.pgpi.org/doc/pgpintro/) - basic intro to PGP (Pretty Good Privacy). I hope to go more into depth on encryption and its uses.
+ - [How PGP works](http://www.pgpi.org/doc/pgpintro/) - basic intro to PGP (Pretty Good Privacy). I hope to go more in depth on encryption and its uses.
