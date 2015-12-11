@@ -1,5 +1,8 @@
 #Liberty Commons High School HPE Club
 
+![Liberty Logo](https://raw.githubusercontent.com/powersj/liberty-hpe-club/master/img/logo_liberty.jpg "Liberty Commons High School logo")
+![HPE Logo](https://raw.githubusercontent.com/powersj/liberty-hpe-club/master/img/logo_hpe.jpg "HPE logo")
+
 ## Background
 The following repo was produced to help partner between Liberty Commons High School's HPE Club and Hewlett Packard Enterprise employees who wish to help train and setup students for success in possible internships as well as learn more about computing.
 
@@ -27,4 +30,3 @@ A high-level outline of the areas of focus for this project is below. This is no
 
 # License
 Apache 2.0 &copy; Joshua Powers
-
