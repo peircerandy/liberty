@@ -1,10 +1,10 @@
-#Liberty Commons High School HP Club
+#Liberty Commons High School HPE Club
 
 ## Background
-The following repo was produced to help partner between Liberty Commons High School's HP Club and Hewlett-Packard Enterprise employees who wish to help train and setup students for success in possible internships as well as learn more about computing.
+The following repo was produced to help partner between Liberty Commons High School's HPE Club and Hewlett Packard Enterprise employees who wish to help train and setup students for success in possible internships as well as learn more about computing.
 
 ## Objective
-To share and outline computing technologies between the HP Club and Hewlett-Packard Enterprise employees. The areas of focus include, but are not limited to:
+To share and outline computing technologies between the HPE Club and Hewlett-Packard Enterprise employees. The areas of focus include, but are not limited to:
 
 * Operating Systems
 * Programming
