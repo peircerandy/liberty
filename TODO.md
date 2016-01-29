@@ -1,3 +1,4 @@
 # TODO
- * Add links to cheatsheets
- * Get cheatsheet for unix CLI options
+
+ - [x] Add links to cheatsheets
+ - [x] Get cheatsheet for unix CLI options
