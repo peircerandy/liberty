@@ -21,6 +21,7 @@ A high-level outline of the areas of focus for this project is below. This is no
 * C
 * RaspberryPi
 * git
+* Problem Sets
 
 ## Contributors
 * [Joshua Powers](https://github.com/powersj/)
