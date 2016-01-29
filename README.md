@@ -1,4 +1,4 @@
-#Liberty Commons High School HPE Club
+# Liberty Commons High School HPE Club
 
 ![HPE Logo](https://raw.githubusercontent.com/hpe-linux/liberty/master/img/logo_hpe.png "HPE logo")
 ![Liberty Logo](https://raw.githubusercontent.com/hpe-linux/liberty/master/img/logo_liberty.png "Liberty Commons High School logo")
@@ -28,5 +28,5 @@ A high-level outline of the areas of focus for this project is below. This is no
 * [Josh Gadeken](https://github.com/process1183)
 * [Justin Vreeland](https://github.com/justinvreeland)
 
-# License
+## License
 Apache 2.0 &copy; Joshua Powers
